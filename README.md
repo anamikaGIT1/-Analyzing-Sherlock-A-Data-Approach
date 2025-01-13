@@ -18,8 +18,7 @@ This project applies data science techniques to analyze the Sherlock Holmes stor
 
 ## Project Structure
 - `Final_Project.ipynb`: Main Jupyter notebook containing the analysis
-- `data/`: Directory containing the text files of Sherlock Holmes stories (if applicable)
-- `images/`: Directory for storing generated visualizations
+- `SH/`, `Sherlock/`: Directory containing the text files of Sherlock Holmes stories
 
 ## How to Run
 1. Clone this repository
